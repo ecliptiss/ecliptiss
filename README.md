@@ -2,7 +2,7 @@
 
 I'm studying data science and physics in university, potentially doing some minor
 
-I have some previous small projects that I did, you can find them here.
+I have some previous small projects that I did, you can find them below.
 
 Some programming langs (and other stuff): <br>
 ![Python](https://img.shields.io/badge/-Python-yellow?logo=python)
